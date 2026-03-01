@@ -9,7 +9,7 @@
 
 
 # Usage:
-# python3 patcher.py ../samples/opaque_predicates 0x400546
+# python3 patcher.py ../path/to/sample <address of function to patch>
 
 
 # Debugging
